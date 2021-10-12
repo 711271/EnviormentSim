@@ -16,6 +16,7 @@ public class Creature {
     }
     
   public void move() {
+   
     pos.add(vel);      
       }
         
